@@ -1,0 +1,487 @@
+company,h-index,repo count,contributor count,location,country,employee,top_language
+microsoft,458,5261,41127,"Redmond, WA",,,C#
+jenkinsci,99,2526,8610,"Santa Clara, CA",,,Java
+apache,265,2410,29026,,,,Java
+mozilla,153,2353,11352,"Mountain View, California",,,JavaScript
+azure,178,1879,1743,"Redmond, WA & the cloud ??",,,C#
+adafruit,107,1600,3771,New york city,,,Python
+googlecloudplatform,150,1078,8038,,,,Python
+owasp,71,1000,1917,,,,HTML
+hashicorp,117,973,6095,"San Francisco, CA",,,Go
+w3c,99,972,3125,World Wide Web,,,HTML
+intel,105,964,13138,"Mountain View, CA",USA,121100,C
+udacity,118,891,5560,,,,Jupyter Notebook
+shopify,106,885,23805,The Internet,,,Ruby
+automattic,82,870,7802,Worldwide,,,PHP
+mapbox,123,846,2442,Washington DC,,,JavaScript
+heroku,77,841,5444,"San Francisco, CA",,,Ruby
+adobe,63,815,6901,"San Jose, CA",,,JavaScript
+openstack,80,768,5278,,,,Python
+unity-technologies,131,687,17113,"Copenhagen, Denmark",,,C#
+JetBrains,98,598,10413,Czech Republic,Europe,1900,Java
+elastic,90,598,8093,,,,JavaScript
+rancher,61,515,6145,,,,Go
+segmentio,66,504,7998,"San Francisco, CA",,,Go
+eclipse,75,475,3439,,,,Java
+alibaba,188,455,8153,"Hangzhou, China",China,245700,Java
+discourse,39,455,2367,,,,Ruby
+nasa,63,449,1222,United States of America,,,Python
+github,137,446,11092,"San Francisco, CA",USA,1800,Ruby
+spatie,183,446,3678,"Antwerp, Belgium",,,PHP
+auth0,66,438,4932,Seattle,,,JavaScript
+grafana,64,434,8988,Sweden,,,Go
+getsentry,60,433,5641,,,,Python
+cloudflare,119,414,6560,"San Francisco, London, Austin, Lisbon, Singapore",,,JavaScript
+nokia,24,399,15880,,Europe,87927,Python
+thoughtbot,85,397,4874,,,,Ruby
+atlassian,37,376,10370,Australia,,,JavaScript
+aws,134,365,7162,"Seattle, WA",,,Python
+getlantern,25,362,2948,,,,Go
+salesforce,77,354,1207,,USA,78634,Python
+npm,59,341,2273,United States of America,,,JavaScript
+plotly,63,340,2645,Montr¨¦al,,,Python
+hubspot,45,337,7447,"Cambridge, MA",,,Java
+futurice,26,337,1554,,,,JavaScript
+kong,43,332,5364,San Francisco,,,Lua
+rstudio,81,330,2685,"Boston, MA",,,R
+nvidia,108,322,4265,"2788 San Tomas Expressway, Santa Clara, CA, 95051",USA,22473,Python
+hewlettpackard,31,318,3688,,,,Python
+formidablelabs,63,316,3672,"Seattle, WA",,,JavaScript
+ionic-team,70,306,2936,Cyberspace,,,TypeScript
+codrops,143,287,143,,,,JavaScript
+ethereum,88,281,3014,,,,Python
+netlify,48,281,2594,San Francisco,,,JavaScript
+ecomfe,46,277,777,Beijing & Shanghai & Shenzhen,,,JavaScript
+digitalocean,44,275,7441,"New York, NY",,,Go
+juniper,32,273,5625,,USA,9000,Python
+square,105,264,685,,Other,1853,Ruby
+oracle,64,264,4474,"Austin, TX",USA,143000,Java
+spotify,94,261,3740,"Stockholm, Sweden",Europe,6620,Java
+atom,71,255,2518,"San Francisco, CA",,,JavaScript
+nccgroup,94,254,691,Global,,,Python
+marmelab,42,251,353,France,,,JavaScript
+symfony,126,246,3241,The Internet,,,PHP
+fossasia,236,242,2359,Singapore,,,JavaScript
+tc39,104,241,892,The web,,,HTML
+sap,57,239,1829,"Walldorf, Germany",Europe,107400,JavaScript
+yelp,58,238,4918,San Francisco,USA,4400,Python
+rocketchat,29,237,5375,,,,JavaScript
+mirantis,19,236,3137,,USA,1000,Python
+paypal,60,231,1177,"San Jose, CA",USA,30900,JavaScript
+dotnet,116,224,6377,,,,C#
+palantir,50,220,2825,"Denver, CO",,,Java
+dropbox,64,216,6005,San Francisco,USA,2667,Python
+naver,57,215,1461,Republic of Korea,Other,4696,Python
+netflix,108,212,2353,"Los Gatos, California",USA,11300,Java
+vmware,51,212,2000,"Palo Alto, CA",USA,37500,Go
+freecodecamp,43,209,3132,Just here on Earth... for now,,,JavaScript
+yahoo,56,208,1155, We're working from home these days. Stay safe.,USA,8500,JavaScript
+nvlabs,87,204,322,,,,Python
+angular,72,203,3247,United States of America,,,JavaScript
+linuxdeepin,32,201,895,China,China,252,C++
+nodejs,77,199,3485,,,,JavaScript
+ansible,44,199,2488,United States of America,,,Python
+airbnb,74,194,6537,San Francisco,USA,6132,JavaScript
+rust-lang,95,194,6755,,,,Rust
+meteor,30,193,4752,,,,JavaScript
+influxdata,42,192,3389,"San Francisco, CA",,,Go
+bytedance,70,191,5671,"Beijing, P.R.C",China,110000,Python
+ipfs,49,188,1312,Earth,,,Go
+fex-team,40,188,454,beijing,,,JavaScript
+citrix,16,186,588,,USA,900,CSS
+thunlp,74,186,255,"FIT Building, Tsinghua University, Beijing",,,Python
+apple,103,184,3086,"Cupertino, CA",USA,154000,Swift
+crowdstrike,28,181,2613,,,,Go
+ebay,43,180,666,,USA,10800,Java
+deepmind,88,179,665,London,,,Python
+xamarin,51,178,3143,"Boston, MA",,,C#
+servo,37,177,3478,,,,Rust
+ory,30,175,1974,Germany,,,Go
+tencent,135,170,3296,"Shenzhen, China",China,110715,C++
+hyperledger,53,166,1725,United States of America,,,Go
+basecamp,40,165,4089,"Chicago, IL",,,Ruby
+nextdoor,11,164,6972,,,,Python
+criteo,24,162,334,"Paris, France",,,Python
+khronosgroup,67,157,2673,Beaverton OR,,,C++
+telus,7,156,1109,Canada,,,JavaScript
+samsung,39,155,2218,,Other,116915,C++
+cloudera,29,153,1531,"California, USA",USA,2765,Java
+trailofbits,58,153,2294,"New York, New York",,,Python
+jitsi,33,147,2112,Global,,,Java
+amzn,40,145,1364,,USA,1523000,Python
+pingcap,43,145,3388,,,,Go
+openai,84,143,2717,,,,Python
+frappe,38,143,1377,India,,,Python
+servicenow,22,142,2132,,,,JavaScript
+qiniu,40,140,911,Shanghai,China,259,Go
+uber,81,139,2784,70+ countries and counting.,USA,29000,JavaScript
+cyberark,30,136,944,"Newton, MA and Petach Tikva, Israel",,,Python
+freshworks,9,136,3738,"San Mateo, CA 94403",,,JavaScript
+infinitered,29,136,2130,San Francisco & Portland,,,JavaScript
+sage,15,129,885,"Newcastle, UK and worldwide",,,Ruby
+easemob,21,126,874,Beijing,China,113,Java
+fastai,46,126,1630,Australia,,,Jupyter Notebook
+iuap-design,15,125,782,"Beijing,China",China,22151,JavaScript
+tryghost,38,124,2316,Singapore,,,JavaScript
+delta,8,123,266,"Tiruchirappalli, India",,,JavaScript
+vercel,68,122,2581,Global,,,JavaScript
+docusign,15,121,535,"San Francisco, CA",USA,7461,JavaScript
+dell,21,121,1027,"One Dell Way, Round Rock, TX  USA",USA,133000,Python
+wordpress,51,121,1210,,,,PHP
+facebook,97,120,9234,"Menlo Park, California",USA,83553,C++
+paytm,6,119,881,Noida,,,JavaScript
+alteryx,14,118,1479,"Broomfield, CO",,,JavaScript
+vuejs,81,118,4914,All Over the World,,,JavaScript
+filamentgroup,56,118,418,"Boston, MA",,,JavaScript
+storybookjs,31,117,1329,,,,JavaScript
+mdn,50,116,2194,Worldwide,,,JavaScript
+rails,65,114,2067,,,,Ruby
+minio,40,113,2002,United States of America,,,Go
+aspnet,68,112,1032,"Redmond, WA",,,C#
+ant-design,44,111,1973,"HangZhou, China",,,JavaScript
+ericsson,13,109,1858,,,,Ruby
+coinbase,46,108,648,,,,Ruby
+tensorflow,87,107,3992,,,,Python
+baidu,62,106,1309,"Beijing, China",China,45500,C++
+yandex,41,106,938,"Moscow, Russia",Other,18004,JavaScript
+commaai,25,106,4003,San Diego,,,Python
+mastercard,13,104,582,,USA,24000,Java
+seagate,12,104,3112,,,,C
+ExpediaInc,2,104,3397,,USA,20000,Java
+huggingface,49,104,2591,NYC + Paris,,,Python
+huawei,12,103,162,,China,197000,Python
+vimeo,38,102,2133,"New York, NY",,,Go
+koajs,55,102,720,,,,JavaScript
+gatsbyjs,29,101,1232,,,,JavaScript
+skillz,5,100,2423,"San Francisco, CA",,,Objective-C
+signalapp,35,100,2215,Everywhere and nowhere,,,Java
+powershell,42,100,1027,Redmond,,,PowerShell
+twitter,69,98,1570,,USA,7500,Scala
+medium,22,97,4025,"San Francisco, CA",USA,250,JavaScript
+procore,11,95,2765,,,,Ruby
+clojure,53,94,574,,,,Clojure
+genius,9,93,2985,,,,Ruby
+electron,39,93,1901,"San Francisco, CA",,,JavaScript
+nytimes,44,93,625,"New York, NY",,,Go
+firebase,49,92,2859,"San Francisco, CA",,,JavaScript
+home-assistant,36,92,2712,Your home,,,Python
+mercari,34,90,1332,,,,Go
+jupyter,37,90,1364,The Future,,,Python
+okta,34,89,1073,,USA,3542,JavaScript
+realm,34,89,1049,,,,Swift
+docker,56,87,2769,"San Francisco, CA",USA,314,Go
+mandiant,54,87,721,,,,Python
+mercadolibre,19,87,2563,,,,Java
+groupon,29,86,201,"Chicago, IL, USA",USA,3675,Java
+reactjs,47,85,2082,Everywhere,,,JavaScript
+papers-we-love,13,85,330,"New York, NY",,,JavaScript
+prisma,29,85,1125,Berlin & Worldwide,,,TypeScript
+youzan,36,84,1222,º¼ÖÝ,China,2000,JavaScript
+tauri-apps,28,84,1364,,,,Rust
+opentext,5,83,496,"Waterloo, Ontario",,,JavaScript
+netease,33,82,801,,China,32064,JavaScript
+python,37,82,2192,,,,Python
+kotlin,53,82,876,,,,Kotlin
+coupa,3,81,2323,"San Mateo, CA",,,Ruby
+denoland,39,81,2411,,,,TypeScript
+bazelbuild,47,81,1710,,,,Starlark
+cisco,27,80,907,,USA,83300,C
+coursera,15,80,2144,"Mountain View, CA",,,JavaScript
+ironsource,14,80,1423,Israel,,,JavaScript
+veritone,4,80,1280,"575 Anton Suite 100, Costa Mesa, CA 92626",,,Go
+laravel,67,80,2938,,,,PHP
+smartrent,7,79,1707,,,,Elixir
+spring-projects,58,79,2526,United States of America,,,Java
+autodesk,27,78,818,"San Francisco, CA",,,JavaScript
+didi,53,77,1318,"Beijing, China",China,24396,Java
+kubernetes,60,77,4570,,,,Go
+containers,42,77,1872,Earth,,,Go
+pinterest,45,76,3209,"San Francisco, California",USA,3225,Java
+nutanix,11,76,892,"San Jose, CA",USA,6080,Go
+semantic-org,16,76,754,New York,,,JavaScript
+box,35,75,722,"Redwood City, CA",,,JavaScript
+doctrine,42,75,1600,Planet Earth,,,PHP
+appian,4,74,7461,"Reston, VA",,,Java
+hexojs,28,72,738,,,,JavaScript
+rethinkdb,24,72,696,"Mountain View, CA",,,JavaScript
+openresty,54,70,408,San Francisco Bay Area,,,C
+videojs,29,70,671,,,,JavaScript
+kriasoft,29,70,629,,,,JavaScript
+gulpjs,22,70,448,,,,JavaScript
+tusimple,10,68,2994,San Diego,,,Python
+pytorch,56,68,2720,where the eigens are valued,,,Python
+gothinkster,34,68,366,,,,JavaScript
+opntec,0,68,304,Berlin,,,HTML
+douban,31,67,550,"Beijing, China",China,100,Python
+blockchain,19,67,1750,United Kingdom,,,JavaScript
+shadowsocks,43,67,1193,,,,C
+netdata,13,66,1803,USA,,,JavaScript
+doordash,4,65,3518,"San Francisco, CA",,,Python
+strapi,32,65,802,"Paris, France",,,JavaScript
+bilibili,36,64,1736,"Shanghai, China",China,12281,C
+xiaomi,30,64,609,China,China,33793,Java
+lingochamp,15,64,2317,"Shanghai, China",China,160,Ruby
+qualys,7,64,741,"Foster City, California",,,Python
+solarwinds,9,63,1648,United States of America,,,Go
+datawhalechina,37,63,242,,,,Jupyter Notebook
+qihoo360,39,62,384,"Beijing, China",China,1000,C++
+pypa,34,62,1890,,,,Python
+tenable,22,61,980,United States of America,USA,1500,Python
+haiwen,18,60,1068,"Beijing, China",China,50,Python
+yalantis,49,59,223,"Ukraine, Dnipro",,,Swift
+babel,34,59,1230,Flavortown,,,JavaScript
+localstack,16,59,1862,,,,Python
+wish,7,57,1402,"San Francisco, CA",USA,828,Go
+meituan,13,55,827,"Beijing, China",China,100033,JavaScript
+uipath,11,55,3278,,,,C#
+bookingcom,9,55,2209,Amsterdam - NL,Europe,17500,Go
+doximity,5,55,1051,"San Francisco, CA",,,Ruby
+golang,50,55,2279,,,,Go
+polymer,27,55,488,,,,TypeScript
+zoom,21,54,74,"San Jose, CA",,,JavaScript
+equinix,11,54,513,"Redwood City, CA",,,HCL
+liveramp,10,54,507,"San Francisco, CA",,,Go
+d3,45,54,319,"San Francisco, CA",,,JavaScript
+postcss,38,54,789,,,,JavaScript
+jekyll,29,54,779,,,,Ruby
+alipay,26,53,1271,"Hangzhou, China",China,200000,Python
+fortinet,9,53,93,"Sunnyvale, California",,,Python
+lenovo,9,53,568,,,,Python
+remitly,2,53,2532,"Seattle, WA",,,JavaScript
+adevinta,4,53,626,,,,Go
+gree,23,52,287,,,,JavaScript
+renesas,6,52,2093,,,,C
+raspberrypi,39,52,1568,"Cambridge, UK",,,C
+yued-fe,11,51,274,Shanghai,China,19,JavaScript
+parse-community,31,51,1003,United States of America,,,JavaScript
+kakao,26,50,101,,,,Go
+jquery,26,50,1039,,,,JavaScript
+pixijs,26,50,1295,,,,TypeScript
+sony,24,49,445,"Minato-ku, Tokyo, Japan",Other,108900,Python
+locaweb,12,49,130,S?o Paulo,,,Ruby
+webpack,31,49,1306,,,,JavaScript
+nuxt,35,49,1882,Global,,,JavaScript
+valvesoftware,40,49,952,,,,C++
+zalando,41,48,977,"Berlin, Dublin, Helsinki, Dortmund, Erfurt, M?nchengladbach, Hamburg",,,Java
+dianping,15,48,1068,"Shanghai, China",China,8000,Java
+zomato,4,48,2855,"Gurgaon, India",,,Go
+dcloudio,28,48,879,"Beijing,China",,,JavaScript
+applovin,8,47,1361,"Palo Alto, CA",,,Ruby
+genymobile,9,47,1282,"Paris, Lyon, San Francisco",,,C
+dmlc,34,47,1760,,,,C++
+yeoman,35,47,1004,,,,JavaScript
+qunarcorp,16,46,96,"Beijing, China",China,8600,JavaScript
+clarivate,6,46,1477,,,,Python
+similarweb,6,46,1527,Tel Aviv,,,JavaScript
+socketio,24,46,987,Automattic,,,JavaScript
+pivotal,12,45,2151,"San Francisco, CA",USA,513,Go
+godotengine,32,45,1503,Worldwide,,,C++
+ctripcorp,24,44,532,"Shanghai, China",China,33730,Java
+fiserv,3,44,619,United States of America,,,JavaScript
+prometheus,35,44,1981,,,,Go
+traefik,18,44,1073,Earth,,,Go
+metafizzy,21,44,110,"Alexandria, VA",,,JavaScript
+expensify,5,43,1707,"San Francisco, Ironwood, Denver, London, Berlin, Melbourne, Portland",,,JavaScript
+adyen,20,42,384,"Amsterdam, Netherlands",,,PHP
+ubisoft,17,42,2204,,,,Python
+riskified,3,42,1183,,,,Ruby
+reactiveX,36,42,1535,,,,Java
+ramotion,35,42,122,"San Francisco, CA",,,Swift
+open-mmlab,35,42,1067,,,,Python
+riot,17,41,336,,,,JavaScript
+expressjs,31,41,955,,,,JavaScript
+istio,20,40,1456,,,,Go
+shotspotter,1,38,1924,,,,C
+googlechrome,32,38,1517,,,,JavaScript
+julialang,23,38,2040,,,,Julia
+bumptech,11,38,350,"Mountain View, CA",,,Haskell
+factset,6,37,352,"Norwalk, CT",,,Python
+prettier,23,37,1233,,,,JavaScript
+swagger-api,22,37,1944,,,,Java
+eleme,20,36,279,Shanghai,China,15000,Java
+amd,13,36,1254,,USA,15500,C
+workday,12,36,721,"Pleasanton, California",,,Java
+cimpress,4,36,106,,,,JavaScript
+thealgorithms,34,36,2536,India,,,Python
+nestjs,35,36,1254,,,,TypeScript
+logitech,12,35,415,,,,C
+secureworks,11,35,622,,,,Python
+homebrew,26,35,2294,GitHub,,,Ruby
+webtorrent,21,35,359,npm install webtorrent,,,JavaScript
+fastlane,15,35,722,,,,Ruby
+meituan-dianping,23,34,216,"Beijing, China",China,8000,Java
+styled-components,25,34,838,,,,JavaScript
+mobxjs,28,34,797,,,,TypeScript
+fortawesome,12,32,815,United States of America,,,JavaScript
+zhihu,16,31,591,"Beijing, China",China,2649,Java
+pegasystems,10,31,140,"Cambridge, MA",,,Java
+avalara,3,30,761,Seattle,,,JavaScript
+globant,3,30,65,,,,Java
+jgraph,16,30,447,United Kingdom,,,Java
+youtube,16,29,426,,USA,2000,Java
+gohugoio,10,29,764,,,,Go
+ansys,5,28,46,,,,Python
+ebookfoundation,11,28,876,virtual,,,Python
+flutter,24,28,1797,,,,Dart
+h5bp,27,28,854,,,,JavaScript
+jobbole,26,27,123,ShangHai,China,1000,Makefile
+Instagram,15,27,1453,"San Francisco, CA",USA,450,Python
+redis,18,27,1716,,,,Python
+graphql,21,27,1215,"Menlo Park, CA",,,TypeScript
+wayfair,13,26,227,"Boston, MA // Berlin, Germany",,,JavaScript
+mapmyindia,2,26,22,India,,,Java
+netgear,2,26,1532,"San Jose, California",,,C
+moby,17,26,1493,,,,Go
+akveo,18,26,209,United States of America,,,TypeScript
+neovim,19,26,1780,,,,C
+scrapy,18,26,660,,,,Python
+markforged,2,25,1713,United States of America,,,JavaScript
+ncsoft,9,25,205,"Seoul, Korea",,,C++
+twbs,21,25,595,San Francisco,,,JavaScript
+visionmedia,21,25,333,,,,JavaScript
+sequelize,14,25,741,,,,JavaScript
+grpc,21,24,1422,,,,JavaScript
+tastejs,16,24,420,From a galaxy far far away,,,JavaScript
+trainline,6,23,106,"London, Paris, Bangalore, Porto, ...",,,Python
+matterport,5,23,157,"Sunnyvale, CA",,,Python
+zynga,14,22,60,"San Francisco, CA",USA,1777,JavaScript
+anjuke,9,22,62,Shanghai,China,50,Python
+23andme,8,22,811,"Sunnyvale, CA",,,Python
+egain,1,22,13,Sunnyvale CA,,,JavaScript
+django,18,22,954,Internet,,,Python
+syncthing,11,22,513,,,,Go
+definitelytyped,10,22,448,,,,TypeScript
+afnetworking,19,22,385,,,,Objective-C
+taobao,10,21,112,"Hangzhou, China",China,9999,Java
+reduxjs,18,21,1176,The Moon,,,JavaScript
+encode,18,21,965,,,,Python
+overstock,4,20,929,"Salt Lake City, UT",,,JavaScript
+veeva,3,20,9,,,,Java
+chartjs,15,20,544,,,,JavaScript
+iqiyi,18,19,207,"Beijing, China",China,7721,Java
+weibocom,12,19,146,Beijing,China,6147,Java
+faceplusplus,11,19,24,,China,2000,Java
+truecaller,4,19,662,,,,Java
+keysight,2,19,827,"Santa Rosa, California",,,HCL
+ncino,2,19,840,"Wilmington, NC",,,JavaScript
+obsproject,12,19,828,,,,C++
+composer,16,19,785,,,,PHP
+gorilla,18,19,350,The World,,,Go
+seleniumHQ,13,19,1148,,,,Java
+microstrategy,6,18,28,"Tysons Corner, VA",,,JavaScript
+HujiangTechnology,8,18,179,shanghai,China,50,Java
+spirent,5,18,47,Global,,,Python
+coupang,2,18,1264,seoul,,,Java
+30-seconds,16,18,448,Greece,,,JavaScript
+yarnpkg,10,18,1000,,,,JavaScript
+guzzle,15,18,499,,,,PHP
+vuzix,1,17,7,,,,C++
+cyberagent,8,17,27,"Tokyo, Japan",,,JavaScript
+aol,7,17,396,We're working from home these days. Stay safe.,USA,10350,Java
+billtrust,5,17,33,,,,Python
+harmonic,5,17,515,"Perth, Western Australia",,,PHP
+playstudios,1,17,884,,,,C#
+keras-team,14,17,980,Worldwide,,,Python
+iview,11,17,191,BeiJing,,,JavaScript
+vipshop,14,16,69,Guangzhou China,China,8013,C
+certara,4,16,23,,,,R
+leaflet,15,16,648,,,,JavaScript
+gogs,10,16,587,Wildest Dream,,,Go
+carsales,3,15,30,"Melbourne, Australia",,,C#
+zscaler,4,15,8,"San Jose, CA",,,HCL
+teamviewer,4,14,123,G?ppingen,,,PowerShell
+techtarget,1,14,2,"Newton, MA",,,JavaScript
+doocs,12,14,187,China,,,Java
+pallets,13,14,1317,,,,Python
+opencv,12,14,849,,,,C++
+tesseract-ocr,12,14,396,,,,HTML
+rackspace,8,13,707,"San Antonio, TX",,,Ruby
+lumen,4,13,41,,,,Elixir
+unisys,1,13,133,Global,,,Python
+gin-gonic,9,13,748,$GOPATH,,,Go
+scikit-learn,9,13,426,,,,Python
+tldr-pages,8,13,502,,,,JavaScript
+baixing,7,12,44,"Shanghai, China",China,50,JavaScript
+colopl,3,12,364,"Tokyo, Japan",,,PHP
+appen,1,12,128,,,,Ruby
+meitu,7,11,210,"Xiamen, China",China,2090,Go
+marqeta,5,11,423,"Oakland, CA",,,Go
+lattice,2,11,94,,,,C++
+exscientia,1,11,63,"Oxford UK, Dundee UK",,,Python
+mui,9,11,656,Global,,,TypeScript
+zsh-users,10,11,594,,,,Shell
+nwjs,10,11,830,,,,JavaScript
+robinhood,9,10,253,"Palo Alto, CA",,,Python
+renren,3,10,6,"Beijing, P.R.China",China,409,JavaScript
+ionq,3,10,268,,,,Python
+qualtrics,2,10,205,,,,TypeScript
+makemytrip,2,10,409,Gurgaon,,,Python
+agilethought,2,10,124,United States,,,JavaScript
+hoppscotch,7,10,237,India,,,Vue
+freecodecampchina,5,10,601,"Suzhou, China",,,JavaScript
+puppeteer,7,9,441,,,,TypeScript
+jumeirdgroup,6,8,7,,China,200,Java
+dangdangdotcom,5,8,80,,China,2917,Java
+compass,5,8,225,,,,Ruby
+semrush,4,8,37,,,,JavaScript
+soundhound,3,8,11,,,,Java
+alamofire,5,8,261,,,,Swift
+N-able,5,7,15,,,,VBScript
+avepoint,3,7,311,"Jersey City, New Jersey, USA",,,C#
+lantronix,2,7,10,,,,C
+moment,6,7,831,,,,JavaScript
+git,0,7,710,,,,HTML
+quilljs,6,7,167,,,,JavaScript
+micro,4,6,81,,,,Go
+tripadvisor,3,6,10,,USA,2691,Java
+vacasa,2,6,42,"Portland, Oregon",,,Python
+zuora,1,6,41,"San Mateo, CA",USA,1249,Java
+qorvo,1,6,255,"Greensboro, North Carolina",,,C
+supermicro,0,6,66,United States of America,,,Makefile
+evercommerce,0,6,25,,,,PHP
+ohmyzsh,5,6,1045,"Portland, OR",,,Shell
+powerline,4,6,178,,,,Shell
+endava,4,5,8,London,,,Java
+vanguard,3,5,7,"Valley Forge, PA",,,Java
+spire,1,5,4,,,,Haskell
+payoneer,2,5,5,New York,,,C#
+mtdvio,0,5,162,Berlin,,,JavaScript
+huginn,3,5,222,,,,Ruby
+layui,4,5,67,Hangzhou China,,,JavaScript
+nortonlifeLock,2,4,40,"Tempe, Arizona",,,Go
+legalzoom,2,4,276,United States of America,,,Go
+channeladvisor,2,4,8,"Morrisville, NC",,,TSQL
+lendingclub,1,4,130,,USA,1530,Java
+kinaxis,1,4,11,"Ottawa, ON  Canada",,,HCL
+simcorp,1,4,22,,,,C#
+upstart,1,4,8,"Portland, OR",,,Objective-C
+ChangbaDevs,0,4,5,,China,199,Objective-C
+monotaro,0,4,156,"Amagasaki, JAPAN",,,Python
+teladoc,0,4,359,United States of America,,,JavaScript
+smartsheet,1,4,156,"Bellevue, WA",,,Dockerfile
+bitcoin,0,4,569,,,,C
+konami,2,3,1,,,,C#
+jumia,2,3,10,,,,SCSS
+sailpoint,1,3,43,,,,Ruby
+temenos,1,3,12,,,,TypeScript
+meili,0,3,3,"Hangzhou, China",China,40,Java
+identiv,1,3,4,,,,Java
+isocpp,0,3,301,,,,Python
+five9,1,2,1,"San Ramon, CA",,,CSS
+nordic,1,2,1,,,,C
+nerdwallet,1,2,31,,,,Python
+gitlab,0,2,5,,,,Ruby
+dlocal,0,2,24,,,,HTML
+tietoevry,0,2,6,,,,Java
+impress,0,2,76,,,,JavaScript
+snapkit,0,2,121,,,,Swift
+exacity,0,2,30,China,,,TeX
+doubleverify,0,1,6,,,,
+knowbe4,0,1,3,"Clearwater, FL",,,Go
+sprinklr,0,1,1,,,,Ruby
+plantronics,0,1,1,"Santa Cruz, California",,,JavaScript
+ytdl-org,0,1,392,,,,Python
+resume,0,1,46,,,,JavaScript
+raywenderlich,0,1,1,,,,
+eplus,0,0,0,"Herndon, VA",,,
+phreesia,0,0,0,,,,
